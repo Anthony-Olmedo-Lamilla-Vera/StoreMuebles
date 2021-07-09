@@ -1,0 +1,4 @@
+para iniciar el proyecto debe instalar el
+REACT 
+REACT ROUTER
+y el comando npm start
