@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/StoreMuebles/static/css/main.d0de6145.chunk.css",
-    "main.js": "/StoreMuebles/static/js/main.aa2e3bee.chunk.js",
-    "main.js.map": "/StoreMuebles/static/js/main.aa2e3bee.chunk.js.map",
+    "main.js": "/StoreMuebles/static/js/main.8f039891.chunk.js",
+    "main.js.map": "/StoreMuebles/static/js/main.8f039891.chunk.js.map",
     "runtime-main.js": "/StoreMuebles/static/js/runtime-main.8cfaf1fb.js",
     "runtime-main.js.map": "/StoreMuebles/static/js/runtime-main.8cfaf1fb.js.map",
     "static/js/2.1b3f9d61.chunk.js": "/StoreMuebles/static/js/2.1b3f9d61.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.8cfaf1fb.js",
     "static/js/2.1b3f9d61.chunk.js",
     "static/css/main.d0de6145.chunk.css",
-    "static/js/main.aa2e3bee.chunk.js"
+    "static/js/main.8f039891.chunk.js"
   ]
 }
