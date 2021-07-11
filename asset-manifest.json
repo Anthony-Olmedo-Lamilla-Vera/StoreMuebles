@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/StoreMuebles/static/css/main.d0de6145.chunk.css",
+    "main.css": "/StoreMuebles/static/css/main.385d8b91.chunk.css",
     "main.js": "/StoreMuebles/static/js/main.8bf7279b.chunk.js",
     "main.js.map": "/StoreMuebles/static/js/main.8bf7279b.chunk.js.map",
     "runtime-main.js": "/StoreMuebles/static/js/runtime-main.8cfaf1fb.js",
@@ -8,14 +8,14 @@
     "static/js/2.1b3f9d61.chunk.js": "/StoreMuebles/static/js/2.1b3f9d61.chunk.js",
     "static/js/2.1b3f9d61.chunk.js.map": "/StoreMuebles/static/js/2.1b3f9d61.chunk.js.map",
     "index.html": "/StoreMuebles/index.html",
-    "static/css/main.d0de6145.chunk.css.map": "/StoreMuebles/static/css/main.d0de6145.chunk.css.map",
+    "static/css/main.385d8b91.chunk.css.map": "/StoreMuebles/static/css/main.385d8b91.chunk.css.map",
     "static/js/2.1b3f9d61.chunk.js.LICENSE.txt": "/StoreMuebles/static/js/2.1b3f9d61.chunk.js.LICENSE.txt",
     "static/media/App.css": "/StoreMuebles/static/media/dirty-pattern-paint-room-block (1).4a3da164.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8cfaf1fb.js",
     "static/js/2.1b3f9d61.chunk.js",
-    "static/css/main.d0de6145.chunk.css",
+    "static/css/main.385d8b91.chunk.css",
     "static/js/main.8bf7279b.chunk.js"
   ]
 }
